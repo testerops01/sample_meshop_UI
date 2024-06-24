@@ -1,0 +1,8 @@
+mesop
+google-generativeai
+ollama
+groq
+llama-index
+llama-index-llms-anthropic
+langchain_community
+langchain
